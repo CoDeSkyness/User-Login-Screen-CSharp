@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\bin\Debug\sifreilegirisprogramı.exe.config
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\bin\Debug\sifreilegirisprogramı.exe
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\bin\Debug\sifreilegirisprogramı.pdb
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.Form1.resources
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.Properties.Resources.resources
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.exe
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.pdb
+C:\Users\pc\Desktop\sifreilegirisprogramı\sifreilegirisprogramı\obj\Debug\sifreilegirisprogramı.Form2.resources
